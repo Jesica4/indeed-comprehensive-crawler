@@ -1,0 +1,2 @@
+# Runtime dependencies for Indeed Comprehensive Crawler
+# This project uses only the Python standard library.
