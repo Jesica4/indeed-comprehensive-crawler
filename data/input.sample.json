@@ -1,0 +1,72 @@
+[
+  {
+    "source_link": "",
+    "adBlob": "...",
+    "adId": "433403349",
+    "additionalLocationLink": {
+      "label": "+3 Orte",
+      "url": "https://www.indeed.com/rc/clk?jk=ea2f2dbc75f8a438&from=vj&pos=1"
+    },
+    "advn": "625754421564269",
+    "company": "Ober Scharrer Gruppe GmbH",
+    "companyRating": 0,
+    "companyReviewCount": 0,
+    "createDate": 1721054703000,
+    "displayTitle": "MFA / Medizinische Fachangestellte (w/m/d) für den OP",
+    "formattedLocation": "76532 Baden-Baden",
+    "formattedRelativeTime": "vor 30+ Tagen",
+    "jobkey": "ea2f2dbc75f8a438",
+    "jobTypes": [
+      "Vollzeit",
+      "Teilzeit"
+    ],
+    "locationCount": 4,
+    "pubDate": 1721019600000,
+    "salarySnippet": {
+      "currency": "EUR",
+      "salaryTextFormatted": false
+    },
+    "snippet": "Sie arbeiten gerne im OP, schätzen eine strukturierte Arbeitsweise und möchten Teil eines eingespielten Teams sein...",
+    "title": "MFA / Medizinische Fachangestellte (w/m/d) für den OP",
+    "companyDetails": {
+      "aboutSectionViewModel": {
+        "aboutCeo": {
+          "name": "Sophie Bellon",
+          "photoUrls": {
+            "48px": "https://...photo48.jpg",
+            "96px": "https://...photo96.jpg",
+            "512px": "https://...photo512.jpg"
+          }
+        },
+        "aboutCompany": {
+          "founded": 1966,
+          "revenue": "RRv1_OVER_10B",
+          "employeeRange": "ERv1_10000_PLUS",
+          "industry": "Catering & Verpflegungsdienstleistungen",
+          "description": "Die Sodexo Group ist ein weltweit führender Anbieter von Services für mehr Lebensqualität.",
+          "headquarters": "Issy-les-Moulineaux"
+        }
+      },
+      "jobsSectionViewModel": {
+        "totalJobCount": 65,
+        "jobCategories": [
+          {
+            "displayName": "Reinigungsdienste",
+            "jobCount": 47,
+            "key": "sanitation"
+          }
+        ],
+        "activeListings": [
+          {
+            "title": "Reinigungskraft",
+            "location": "Wien, W",
+            "jobTypes": [
+              "Teilzeit"
+            ],
+            "postDate": "vor 30+ Tagen"
+          }
+        ]
+      }
+    }
+  }
+]
